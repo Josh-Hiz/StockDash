@@ -1,0 +1,11 @@
+django_plotly_dash
+plotly
+plotly_express
+plotly_dash
+matplotlib.pyplot
+pandas
+numpy
+scipy
+sklearn
+torch
+torchvision
