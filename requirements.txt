@@ -1,11 +1,11 @@
 django_plotly_dash
 plotly
 plotly_express
-plotly_dash
-matplotlib.pyplot
+dash
+matplotlib
 pandas
 numpy
 scipy
-sklearn
+scikit-learn
 torch
 torchvision
